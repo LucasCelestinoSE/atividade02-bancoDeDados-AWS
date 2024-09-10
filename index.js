@@ -29,7 +29,7 @@ const swaggerOptions = {
     },
     servers: [
       {
-        url: 'http://localhost:3000',
+        url: 'http://100.27.225.251:3000',
       },
     ],
   },
